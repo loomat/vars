@@ -1,0 +1,19 @@
+{
+  "name": "@loomat/vars",
+  "version": "1.0.0",
+  "description": "loomat variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loomat/vars.git"
+  },
+  "author": "sando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loomat/vars/issues"
+  },
+  "homepage": "https://github.com/loomat/vars#readme"
+}
